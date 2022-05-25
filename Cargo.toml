@@ -30,5 +30,5 @@ chrono = "0.4.11"
 colored = "2"
 
 [dev-dependencies]
-quickcheck = "0.9.2"
+quickcheck = "1.0.3"
 trycmd = "0.13.4"
